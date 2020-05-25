@@ -57,7 +57,7 @@ You may use any language to build this API, though Typescript or Python are the 
 We would like a bubble chart visualization of funding volume per category, as well as the total number of funding rounds per  category presented in the data source. 
   
   * The X axis is a category axis with label value being the `category`
-  * The Y axis is a value axis with the count of number of companies in the aggregation
+  * The Y axis is a value axis with the count of number of funding rounds or total `fundingAmount` dependent on the aggregation
   * The size of the bubble is determined by the aggregation chosen as detailed below
 
 Data in the chart may be aggregated by
